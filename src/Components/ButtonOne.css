@@ -1,0 +1,14 @@
+.custom-button {
+    background-color: #C471C4; /* A muted, demure grayish color */
+    border-color: #C471C4;
+}
+
+.custom-button:hover {
+    background-color: #F3CCF3; /* Darken slightly on hover */
+    border-color: #C471C4;
+    color: white;
+}
+
+.custom-button:focus {
+    box-shadow: 0 0 0 0.2rem rgba(108, 117, 125, 0.5); /* Softer focus shadow */
+}
