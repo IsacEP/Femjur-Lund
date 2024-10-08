@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Femjur-Lund/static/css/main.397a594d.css",
+    "main.js": "/Femjur-Lund/static/js/main.19c7cfa7.js",
+    "static/js/453.cc9186a1.chunk.js": "/Femjur-Lund/static/js/453.cc9186a1.chunk.js",
+    "static/media/lund.jpg": "/Femjur-Lund/static/media/lund.e19502ae36c00826af80.jpg",
+    "static/media/femjurStyrelse.jpg": "/Femjur-Lund/static/media/femjurStyrelse.ca568a0c4738b1c3ee77.jpg",
+    "index.html": "/Femjur-Lund/index.html",
+    "main.397a594d.css.map": "/Femjur-Lund/static/css/main.397a594d.css.map",
+    "main.19c7cfa7.js.map": "/Femjur-Lund/static/js/main.19c7cfa7.js.map",
+    "453.cc9186a1.chunk.js.map": "/Femjur-Lund/static/js/453.cc9186a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397a594d.css",
+    "static/js/main.19c7cfa7.js"
+  ]
+}
