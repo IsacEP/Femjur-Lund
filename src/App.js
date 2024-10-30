@@ -12,6 +12,8 @@ import About from './Pages/About';
 import Board from './Pages/Board';
 import Partners from './Pages/Partners';
 import History from './Pages/History';
+import Contact from './Pages/Contact';
+import Member from './Pages/Member';
 
 function App() {
     return (
@@ -23,6 +25,8 @@ function App() {
                 <Route path="/history" element={<History />} />
                 <Route path="/board" element={<Board />} />
                 <Route path="/partners" element={<Partners />} />
+                <Route path="/contact" element={<Contact />} />
+                <Route path="/member" element={<Member />} />
             </Routes>
             <Footer />
         </div>

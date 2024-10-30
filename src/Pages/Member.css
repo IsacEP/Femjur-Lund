@@ -1,0 +1,22 @@
+/* Member.css */
+.SubmitButton {
+    background-color: #C471C4 !important;
+    border-color: #C471C4 !important;
+    color: #ffffff !important;
+    font-weight: bold;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+.SubmitButton:hover {
+    background-color: #F3CCF3 !important;
+    border-color: #F3CCF3 !important;
+}
+
+.SubmitButton:active,
+.SubmitButton:focus {
+  background-color: #C471C4 !important;
+  border-color: #C471C4 !important;
+  color: #ffffff !important;
+}

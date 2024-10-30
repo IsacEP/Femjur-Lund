@@ -1,0 +1,5 @@
+/* Partners.css */
+img {
+    max-width: 100%; /* Ensure logos are responsive */
+    height: auto; /* Maintain aspect ratio */
+}

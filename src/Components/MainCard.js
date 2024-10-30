@@ -19,7 +19,7 @@ function MainCard() {
             vid Lunds Universitet.
             </p>
 
-            <ButtonOne link="/bli-medlem" text="BLI MEDLEM" />
+            <ButtonOne link="/member" text="BLI MEDLEM" />
 
             <h3>Skrolla ner för att läsa mer!</h3>
         </div>

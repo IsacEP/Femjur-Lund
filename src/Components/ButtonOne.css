@@ -1,14 +1,21 @@
 .custom-button {
-    background-color: #C471C4; /* A muted, demure grayish color */
-    border-color: #C471C4;
+    background-color: #C471C4 !important;
+    border-color: #C471C4 !important;
 }
 
 .custom-button:hover {
-    background-color: #F3CCF3; /* Darken slightly on hover */
-    border-color: #C471C4;
-    color: white;
+    background-color: #F3CCF3 !important;
+    border-color: #C471C4 !important;
+    color: white !important;
 }
 
 .custom-button:focus {
-    box-shadow: 0 0 0 0.2rem rgba(108, 117, 125, 0.5); /* Softer focus shadow */
+    box-shadow: 0 0 0 0.2rem rgba(108, 117, 125, 0.5);
+}
+
+.custom-button:active,
+.custom-button:focus {
+  background-color: #C471C4 !important;
+  border-color: #C471C4 !important;
+  color: #ffffff !important;
 }

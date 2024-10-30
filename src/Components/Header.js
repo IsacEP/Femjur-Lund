@@ -41,10 +41,10 @@ function Header() {
                     {/* Right navbar items */}
                     <ul className="navbar-nav ms-3"> {/* Use margin-start for spacing */}
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Engagera dig</a>
+                            <Link className="nav-link" to="/member">Engagera Dig</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Kontakt</a>
+                            <Link className="nav-link" to="/contact">Kontakta Oss</Link>
                         </li>
                     </ul>
                 </div>
