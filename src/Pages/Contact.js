@@ -5,7 +5,7 @@ import { FaFacebook, FaInstagram } from 'react-icons/fa';
 
 const Contact = () => {
   return (
-    <Container className="my-5">
+    <Container className="my-5 full-height">
       <Row className="text-center">
         <Col>
           <h1>Kontakta oss</h1>

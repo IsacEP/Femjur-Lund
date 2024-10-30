@@ -11,10 +11,14 @@ function Partners() {
             <h1 className="text-center pb-5">Samarbetspartners</h1>
             <Row className="text-center">
                 <Col xs={12} md={6} className="mb-4 pr-5">
-                    <img src={Akavia} alt="Akavia" className="img-fluid" />
+                    <a href="https://www.akavia.se/" target="_blank" rel="noopener noreferrer">
+                        <img src={Akavia} alt="Akavia" className="img-fluid" />
+                    </a>
                 </Col>
                 <Col xs={12} md={6} className="mb-4">
-                    <img src={st} alt="ST" className="img-fluid" />
+                    <a href="https://www.st.org/" target="_blank" rel="noopener noreferrer">
+                        <img src={st} alt="ST" className="img-fluid" />
+                    </a>
                 </Col>
             </Row>
         </Container>
@@ -22,5 +26,3 @@ function Partners() {
 }
 
 export default Partners;
-
-///src/Assets/Images/akavia.png

@@ -1,11 +1,11 @@
 .custom-button {
-    background-color: #C471C4 !important;
-    border-color: #C471C4 !important;
+    background-color: #ad88c6 !important;
+    border-color: #ad88c6 !important;
 }
 
 .custom-button:hover {
-    background-color: #F3CCF3 !important;
-    border-color: #C471C4 !important;
+    background-color: #e1afd1 !important;
+    border-color: #e1afd1 !important;
     color: white !important;
 }
 
@@ -15,7 +15,7 @@
 
 .custom-button:active,
 .custom-button:focus {
-  background-color: #C471C4 !important;
-  border-color: #C471C4 !important;
+  background-color: #ad88c6 !important;
+  border-color: #ad88c6 !important;
   color: #ffffff !important;
 }

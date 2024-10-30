@@ -1,7 +1,7 @@
 /* Member.css */
 .SubmitButton {
-    background-color: #C471C4 !important;
-    border-color: #C471C4 !important;
+    background-color: #ad88c6 !important;
+    border-color: #ad88c6 !important;
     color: #ffffff !important;
     font-weight: bold;
     padding: 0.6rem 1.2rem;
@@ -10,13 +10,13 @@
   }
   
 .SubmitButton:hover {
-    background-color: #F3CCF3 !important;
-    border-color: #F3CCF3 !important;
+    background-color: #e1afd1 !important;
+    border-color: #e1afd1 !important;
 }
 
 .SubmitButton:active,
 .SubmitButton:focus {
-  background-color: #C471C4 !important;
-  border-color: #C471C4 !important;
+  background-color: #ad88c6 !important;
+  border-color: #ad88c6 !important;
   color: #ffffff !important;
 }

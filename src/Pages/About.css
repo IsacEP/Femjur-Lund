@@ -1,9 +1,9 @@
 .about-page {
-    color: #5a5a5a;
+    color: #ffe6e6;
 }
 
 .about-card {
-    background-color: #fdf2f8;
+    background-color: #e1afd1 !important;
     border: none;
     border-radius: 20px;
 }
@@ -13,7 +13,7 @@
 }
 
 .about-card .card-title {
-    color: #d47fa6;
+    color: #ffe6e6;
     font-weight: bold;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .contact-form button {
-    background-color: #d47fa6;
+    background-color: #ffe6e6;
     border: none;
     border-radius: 10px;
 }
@@ -49,7 +49,7 @@ h1 {
 
 
 .about-us-container {
-    background: linear-gradient(135deg, #F3CCF3 0%, #ffffff 100%); /* Light gradient background */
+    background: linear-gradient(135deg, #ffe6e6 0%, #ffffff 100%); /* Light gradient background */
     padding: 50px 0;
     position: relative;
     overflow: hidden;

@@ -6,7 +6,7 @@ import Femjur from '../Assets/Images/ImgPages/femjurStyrelse.jpg';
 function About() {
     return (
         <div className="about-us-container">
-            <h1 className="text-center mb-5 pt-5" style={{ color: '#C471C4' }}>Om Oss</h1>
+            <h1 className="text-center mb-5 pt-5" style={{ color: '#ad88c6' }}>Om Oss</h1>
 
             {/* Larger box at the top with restricted width */}
             <div className="container">
@@ -25,7 +25,7 @@ function About() {
                                 <img src={Femjur} alt="Femjur" style={{ width: '100%', height: 'auto%', margin: '0 15px' }} />
                             </div>
                             <div className="about-text mt-3">
-                                <h2 style={{ color: '#C471C4' }}>Förtroendevalda till Styrelsen</h2>
+                                <h2 style={{ color: '#ad88c6' }}>Förtroendevalda till Styrelsen</h2>
                                 <p style={{ color: '#555' }}>
                                     (Vänster till höger) Saga, Vera, Helga, ordförande Agnes, vice ordförande Hannah, Linnea och Miranda!
                                 </p>
@@ -46,7 +46,7 @@ function About() {
                                 />
                             </div>
                             <div className="about-text mt-3">
-                                <h3 style={{ color: '#C471C4' }}>Vår Vision</h3>
+                                <h3 style={{ color: '#ad88c6' }}>Vår Vision</h3>
                                 <p style={{ color: '#555' }}>
                                     Här kan vi skriva om er vision!
                                 </p>
@@ -64,7 +64,7 @@ function About() {
                                 />
                             </div>
                             <div className="about-text mt-3">
-                                <h3 style={{ color: '#C471C4' }}>Våra Värderingar</h3>
+                                <h3 style={{ color: '#ad88c6' }}>Våra Värderingar</h3>
                                 <p style={{ color: '#555' }}>
                                     Vi tror på våra värderingar!
                                 </p>
@@ -85,7 +85,7 @@ function About() {
                                 />
                             </div>
                             <div className="about-text mt-3">
-                                <h3 style={{ color: '#C471C4' }}>Vårt Engagemang</h3>
+                                <h3 style={{ color: '#ad88c6' }}>Vårt Engagemang</h3>
                                 <p style={{ color: '#555' }}>
                                     Vi engagerar oss för att skapa bra studier!
                                 </p>
@@ -103,7 +103,7 @@ function About() {
                                 />
                             </div>
                             <div className="about-text mt-3">
-                                <h3 style={{ color: '#C471C4' }}>Engagera Dig!</h3>
+                                <h3 style={{ color: '#ad88c6' }}>Engagera Dig!</h3>
                                 <p style={{ color: '#555' }}>
                                     Engagera dig och bidra till vårt arbete!
                                 </p>

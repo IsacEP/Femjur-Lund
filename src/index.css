@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #ffe6e6 !important;
 }
 
 code {
@@ -14,7 +15,7 @@ code {
 
 /* Sticky Navbar Styles */
 .navbar.sticky {
-  background-color: #ffffff; /* Change to desired color */
+  background-color: #ad88c6 !important; /* Change to desired color */
   box-shadow: 0 4px 2px -2px gray; /* Adds a shadow when sticky */
   transition: all 0.3s ease-in-out; /* Smooth transition */
 }
@@ -23,7 +24,7 @@ code {
 .main-card {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
-    url('./Assets/Images/lund.jpg');
+    url('./Assets/Images/bakgrundsbild.png');
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -51,7 +52,7 @@ code {
 }
 
 .custom-bg {
-  background-color: #F3CCF3;
+  background-color: #ad88c6 !important;
 }
 
 /* Adjusting Navbar Item Spacing */

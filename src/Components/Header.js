@@ -19,7 +19,7 @@ function Header() {
                             <ul className="dropdown-menu" aria-labelledby="navbarDropdownOmOss">
                                 <li><Link className="dropdown-item" to="/about">Femjur Lund</Link></li>
                                 <li><Link className="dropdown-item" to="/history">Historia</Link></li>
-                                <li><Link className="dropdown-item" to="/board">Förtroendevalda</Link></li>
+                                <li><Link className="dropdown-item" to="/siblings">Systerföreningar</Link></li>
                                 <li><Link className="dropdown-item" to="/partners">Samarbetspartners</Link></li>
                             </ul>
                         </li>
@@ -36,7 +36,7 @@ function Header() {
                     </ul>
 
                     {/* Center Logo */}
-                    <Link to="/"><img src={FemjurLogo} alt="Femjur Lund Logo" style={{ width: '100px', height: '100px', margin: '0 15px' }} /></Link>
+                    <Link to="/"><img src={FemjurLogo} alt="Femjur Lund Logo" style={{ width: '125px', height: '125px', margin: '0 15px' }} /></Link>
 
                     {/* Right navbar items */}
                     <ul className="navbar-nav ms-3"> {/* Use margin-start for spacing */}

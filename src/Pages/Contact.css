@@ -1,0 +1,9 @@
+.full-height {
+    min-height: 57.5vh; /* Ensures the container takes up at least the full viewport height */
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex-grow: 1; /* Expands to fill available space between header and footer */
+}
