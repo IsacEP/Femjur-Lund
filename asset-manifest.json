@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Femjur-Lund/static/css/main.e6c8c5b6.css",
-    "main.js": "/Femjur-Lund/static/js/main.2f1d43da.js",
-    "static/js/453.cc9186a1.chunk.js": "/Femjur-Lund/static/js/453.cc9186a1.chunk.js",
-    "static/media/lund.jpg": "/Femjur-Lund/static/media/lund.e19502ae36c00826af80.jpg",
+    "main.css": "/Femjur-Lund/static/css/main.5e878e7b.css",
+    "main.js": "/Femjur-Lund/static/js/main.a3abb539.js",
+    "static/js/453.7d80257a.chunk.js": "/Femjur-Lund/static/js/453.7d80257a.chunk.js",
+    "static/media/bakgrundsbild.png": "/Femjur-Lund/static/media/bakgrundsbild.c11edba8b8a66e68d365.png",
     "static/media/femjurStyrelse.jpg": "/Femjur-Lund/static/media/femjurStyrelse.ca568a0c4738b1c3ee77.jpg",
+    "static/media/start.jpg": "/Femjur-Lund/static/media/start.a83c4d1c0bdc46f0fdad.jpg",
     "static/media/st.png": "/Femjur-Lund/static/media/st.926e46510577ae08910a.png",
     "static/media/akavia.png": "/Femjur-Lund/static/media/akavia.a632f0de89aa272e5bf7.png",
     "index.html": "/Femjur-Lund/index.html",
-    "main.e6c8c5b6.css.map": "/Femjur-Lund/static/css/main.e6c8c5b6.css.map",
-    "main.2f1d43da.js.map": "/Femjur-Lund/static/js/main.2f1d43da.js.map",
-    "453.cc9186a1.chunk.js.map": "/Femjur-Lund/static/js/453.cc9186a1.chunk.js.map"
+    "main.5e878e7b.css.map": "/Femjur-Lund/static/css/main.5e878e7b.css.map",
+    "main.a3abb539.js.map": "/Femjur-Lund/static/js/main.a3abb539.js.map",
+    "453.7d80257a.chunk.js.map": "/Femjur-Lund/static/js/453.7d80257a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c8c5b6.css",
-    "static/js/main.2f1d43da.js"
+    "static/css/main.5e878e7b.css",
+    "static/js/main.a3abb539.js"
   ]
 }
